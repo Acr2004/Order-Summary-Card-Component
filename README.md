@@ -1,5 +1,7 @@
 # Order-Summary-Card-Component
 
+## Challenge Infos
+
 **Challenge:** Build out this order summary card component and get it looking as close to the design as possible.
 
 **Challenge Link:** [Click Here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
