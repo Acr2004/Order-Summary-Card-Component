@@ -29,4 +29,4 @@ The designs were created to the following widths:
 
 ## Final Result
 
-**Link:** [Click Here](https://acr2004.github.io/Order-Summary-Card-Component/)
+**Link:** ![Click Here](https://acr2004.github.io/Order-Summary-Card-Component/)
