@@ -55,8 +55,8 @@ The designs were created to the following widths:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ricardo-piedade-order-summary-card-component-DgGCl3__Jv)
+- Live Site URL: [Live Site](https://acr2004.github.io/Order-Summary-Card-Component/)
 
 ## Author
 
