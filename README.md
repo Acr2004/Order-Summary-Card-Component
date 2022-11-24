@@ -34,6 +34,7 @@ The designs were created to the following widths:
 - Bright Blue: rgb(56, 41, 224)
 - Dark Blue: rgb(31, 47, 86)
 - Desaturated Blue: rgb(114, 128, 167)
+- Medium Slate Blue: rgb(119, 109, 241)
 - Pale Blue: rgb(224, 232, 255)
 - Very Pale Blue: rgb(245, 247, 255)
 
